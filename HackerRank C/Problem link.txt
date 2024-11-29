@@ -1,0 +1,2 @@
+https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/functions-in-c/problem?isFullScreen=true
